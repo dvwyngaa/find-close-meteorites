@@ -10,4 +10,4 @@ The project requires the Python Requests package.
 
 ```
 pipenv install Requests
-pipenv run "python find-meteros.py" 
+pipenv run "python meteors/find-meteros.py" 
