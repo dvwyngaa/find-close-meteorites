@@ -5,3 +5,9 @@ acloudguru Meteor Python Project
 This project requires Python 3 and the requests package.
 
 `python3 find-meteors.py` for Linux or `python find-meteors.py` for Windows
+
+The project requires the Python Requests package.
+
+```
+pipenv install Requests
+pipenv run "python find-meteros.py" 
